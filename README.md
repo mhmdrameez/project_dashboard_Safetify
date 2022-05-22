@@ -1,5 +1,4 @@
-#Safetify Admin Panel
-
+# Safetify Admin Panel
 
 ![Safetify](https://res.cloudinary.com/dwv1g2skd/image/upload/v1653199014/Safetify_zbpclf.png)
 
