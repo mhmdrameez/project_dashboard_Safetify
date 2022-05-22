@@ -1,5 +1,5 @@
 #Safetify Admin Panel
-![Safetify]()
+![Safetify]
 
 
 ## Introduction
